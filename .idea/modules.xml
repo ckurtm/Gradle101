@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_build_types/01_build_types.iml" filepath="$PROJECT_DIR$/01_build_types/01_build_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_configs/02_configs.iml" filepath="$PROJECT_DIR$/02_configs/02_configs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_flavors/03_flavors.iml" filepath="$PROJECT_DIR$/03_flavors/03_flavors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_flavor_dimens/04_flavor_dimens.iml" filepath="$PROJECT_DIR$/04_flavor_dimens/04_flavor_dimens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_dependencies/05_dependencies.iml" filepath="$PROJECT_DIR$/05_dependencies/05_dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/99_library/99_library.iml" filepath="$PROJECT_DIR$/99_library/99_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gradle101.iml" filepath="$PROJECT_DIR$/Gradle101.iml" />
+    </modules>
+  </component>
+</project>
